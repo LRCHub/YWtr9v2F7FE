@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "惑星",
+  "base_artist": "Enfants",
+  "createdAt": "2026-02-06T22:14:43.426538Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "惑星",
+      "artist": "Omoinotake",
+      "has_synced": true,
+      "path": "select/01_惑星_Omoinotake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "惑星",
+      "artist": "ELAIZA",
+      "has_synced": true,
+      "path": "select/02_惑星_ELAIZA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "惑星",
+      "artist": "Ikeda, Elaiza",
+      "has_synced": true,
+      "path": "select/03_惑星_Ikeda,_Elaiza.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Planet (惑星 Wakusei)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/04_Planet_(惑星_Wakusei)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "惑星",
+      "artist": "达明一派",
+      "has_synced": false,
+      "path": "select/05_惑星_达明一派.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "惑星",
+      "artist": "Pizzicato Five",
+      "has_synced": true,
+      "path": "select/06_惑星_Pizzicato_Five.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wakusei [惑星]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/07_Wakusei_[惑星]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "惑星",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/08_惑星_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "惑星",
+      "artist": "达明一派",
+      "has_synced": true,
+      "path": "select/09_惑星_达明一派.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "惑星",
+      "artist": "達明一派",
+      "has_synced": true,
+      "path": "select/10_惑星_達明一派.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "惑星",
+      "artist": "松たか子",
+      "has_synced": true,
+      "path": "select/11_惑星_松たか子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "惑星",
+      "artist": "Enfants",
+      "has_synced": false,
+      "path": "select/pl_01_惑星_Enfants.txt"
+    }
+  ]
+}
